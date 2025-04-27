@@ -135,7 +135,7 @@ Contributions are welcome! To add a new tool or resource:
 
 ---
 
-### Made with ❤ by Team OSINT JOURNO
+### Made with ❤ by Team [OSINT JOURNO](https://www.osintjourno.com)
 #### Consider joining our Community of OSINT Enthusiasts
 - [Reddit](https://reddit.com/r/osint_journo)
 - [Twitter](https://x.com/osint_journo)
