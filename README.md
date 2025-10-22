@@ -61,6 +61,7 @@ Investigate domains and IP addresses to gather intelligence:
 - **[VirusTotal](https://www.virustotal.com)** – Analyze files and URLs for malware.
 - **[IPinfo](https://ipinfo.io)** – Get information about IP addresses.
 - **[ipapi](https://ipapi.com)** – IP address geolocation API.
+- **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** - Check if a domain/IP/email address was compromised in a global Infostealer malware attack.
 
 ---
 
