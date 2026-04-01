@@ -62,6 +62,7 @@ Investigate domains and IP addresses to gather intelligence:
 - **[IPinfo](https://ipinfo.io)** – Get information about IP addresses.
 - **[ipapi](https://ipapi.com)** – IP address geolocation API.
 - **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** - Check if a domain/IP/email address was compromised in a global Infostealer malware attack.
+- **[Phantom Tide](https://github.com/tg12/phantomtide)** - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 
 ---
 
