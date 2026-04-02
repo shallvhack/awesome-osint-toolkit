@@ -114,6 +114,7 @@ Additional tools for various OSINT tasks:
 - **[Exif Pilot](https://www.colorpilot.com/exif.html)** – Exif editor and viewer.
 - **[ExifTool Online](https://exiftool.online)** – Online Exif metadata viewer.
 - **[ExifTool for Windows](https://exiftool.org/exiftool-setup.exe)** – ExifTool installer for Windows.
+- **[Phantom Tide](https://github.com/tg12/phantomtide)** - Real-time OSINT dashboard for maritime and airspace monitoring with vessel tracking, flight activity, official notices, environmental context, and satellite detections.
 
 ---
 
