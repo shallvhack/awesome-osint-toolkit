@@ -62,7 +62,6 @@ Investigate domains and IP addresses to gather intelligence:
 - **[IPinfo](https://ipinfo.io)** – Get information about IP addresses.
 - **[ipapi](https://ipapi.com)** – IP address geolocation API.
 - **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** - Check if a domain/IP/email address was compromised in a global Infostealer malware attack.
-- **[Phantom Tide](https://github.com/tg12/phantomtide)** - OSINT dashboard for maritime and airspace monitoring (vessels, airspace activity, official notices, environmental context, and satellite detections); best suited for transportation/geo-OSINT rather than direct domain/IP investigation.
 
 ---
 
@@ -115,6 +114,7 @@ Additional tools for various OSINT tasks:
 - **[Exif Pilot](https://www.colorpilot.com/exif.html)** – Exif editor and viewer.
 - **[ExifTool Online](https://exiftool.online)** – Online Exif metadata viewer.
 - **[ExifTool for Windows](https://exiftool.org/exiftool-setup.exe)** – ExifTool installer for Windows.
+- **[Phantom Tide](https://github.com/tg12/phantomtide)** - Real-time OSINT dashboard for maritime and airspace monitoring with vessel tracking, flight activity, official notices, environmental context, and satellite detections.
 
 ---
 
