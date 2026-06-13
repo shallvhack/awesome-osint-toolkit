@@ -72,6 +72,7 @@ Tools to gather information from social media platforms:
 - **[Sherlock](https://github.com/sherlock-project/sherlock)** – Find usernames across social networks.
 - **[Social Search](https://social-searcher.com/social-search/)** – Search for social media posts.
 - **[Twint](https://github.com/twintproject/twint)** – An advanced Twitter scraping tool.
+- **[Xquik](https://docs.xquik.com)** - X/Twitter data API for search, profile timelines, followers, media, monitors, webhooks, and MCP workflows.
 - **[Facebook Search](https://www.facebook.com/search/top/)** – Search for people, pages, and groups on Facebook.
 - **[LinkedIn Search](https://www.linkedin.com/search/results/)** – Search for professionals on LinkedIn.
 - **[Instagram Search](https://www.instagram.com/explore/tags/)** – Search for hashtags on Instagram.
