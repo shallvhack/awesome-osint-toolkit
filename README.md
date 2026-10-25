@@ -46,6 +46,7 @@ Tools to gather and analyze information related to email addresses:
 - **[Clearbit](https://clearbit.com)** – Enrich email addresses with additional data.
 - **[Snov.io](https://snov.io)** – Find and verify email addresses.
 - **[MailTester](https://mailtester.com)** – Check if an email address is valid.
+- **[Opsis](https://useopsis.com)** – Find accounts linked to an email address, username or domain.
 
 ---
 
