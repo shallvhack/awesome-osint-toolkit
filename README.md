@@ -72,6 +72,7 @@ Tools to gather information from social media platforms:
 - **[Sherlock](https://github.com/sherlock-project/sherlock)** – Find usernames across social networks.
 - **[Social Search](https://social-searcher.com/social-search/)** – Search for social media posts.
 - **[Twint](https://github.com/twintproject/twint)** – An advanced Twitter scraping tool.
+- **[TKMetrics](https://tkmetrics.com/)** – TikTok creator followers, engagement rate and plays from public profiles.
 - **[Facebook Search](https://www.facebook.com/search/top/)** – Search for people, pages, and groups on Facebook.
 - **[LinkedIn Search](https://www.linkedin.com/search/results/)** – Search for professionals on LinkedIn.
 - **[Instagram Search](https://www.instagram.com/explore/tags/)** – Search for hashtags on Instagram.
