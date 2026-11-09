@@ -69,6 +69,7 @@ Investigate domains and IP addresses to gather intelligence:
 
 Tools to gather information from social media platforms:
 
+- **[Arcmira](https://arcmira.com/)** – YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 - **[Sherlock](https://github.com/sherlock-project/sherlock)** – Find usernames across social networks.
 - **[Social Search](https://social-searcher.com/social-search/)** – Search for social media posts.
 - **[Twint](https://github.com/twintproject/twint)** – An advanced Twitter scraping tool.
